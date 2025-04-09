@@ -51,11 +51,7 @@ Golang is known for its high performance, concurrency, and efficient memory usag
 - **Templating Engine**: Server-side rendering using Go’s built-in templating
 - **AJAX Integration**: Used for reviews, contact forms, and newsletter management
 
-### Deployment
-- **Port Configuration**: Runs on port 4000 for HTTP and 40001 for HTTPS
-- **Execution Modes**:
-  - Golang runtime: `go run server.go`
-  - Windows executable: `parkfinder.exe`
+
 
 ## Development Roadmap
 1. **Database Setup**
